@@ -1,2 +1,3 @@
 # eVeg
-A prototype UI of a commerce platform for vegetables and fruits
+A responsive prototype UI of a commerce platform for vegetables and fruits. Written in ReactJs 
+
