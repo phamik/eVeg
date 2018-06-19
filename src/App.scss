@@ -1,0 +1,195 @@
+.bg{
+  background: lightblue url("../src/img/shoppingBackground.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App {
+    text-align: center;
+   
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  
+
+  .link-to-order:hover{
+    text-decoration: none;
+  }
+
+// =============INVOCE================
+.invoice-box {
+  max-width: 800px;
+  margin: auto;
+  padding: 30px;
+  border: none !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .15);
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+  color: #555;
+}
+
+.card-type {
+  text-align: left;
+}
+
+.total {
+  text-align: right !important;
+  border: none;
+}
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+  /* border: 1px solid #ddd; */
+  border: none !important;
+}
+
+.invoice-box table {
+  width: 100%;
+  line-height: inherit;
+  background: white;
+  // text-align: left;
+}
+
+.invoice-box table td {
+  padding: 5px;
+  vertical-align: top;
+}
+
+.invoice-box table tr td:nth-child(2) {
+  // text-align: right;
+}
+
+.invoice-box table tr.top table td {
+  padding-bottom: 20px;
+}
+
+.invoice-box table tr.top table td.title {
+  font-size: 45px;
+  line-height: 45px;
+  color: #333;
+}
+
+.invoice-box table tr.information table td {
+  // padding-bottom: 40px;
+}
+
+.heading{
+  background: #eee;
+  border-bottom: 1px solid #ddd;
+  font-weight: bold;
+}
+
+.payment{
+  text-align: left !important;
+}
+
+.date{
+  text-align: right !important;
+}
+
+.invoice-box table tr.details td {
+  padding-bottom: 20px;
+}
+
+.invoice-box table tr.item td{
+  border-bottom: 1px solid #eee;
+}
+
+.invoice-box table tr.item.last td {
+  border-bottom: none;
+}
+
+.invoice-box table tr.total td:nth-child(2) {
+  border-top: 2px solid #eee;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 600px) {
+  .invoice-box table tr.top table td {
+      width: 100%;
+      display: block;
+      text-align: center;
+  }
+  
+  .invoice-box table tr.information table td {
+      width: 100%;
+      display: block;
+      text-align: center;
+  }
+}
+
+/** RTL **/
+.rtl {
+  direction: rtl;
+  font-family: Tahoma, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+}
+
+.rtl table {
+  text-align: right;
+}
+
+.rtl table tr td:nth-child(2) {
+  text-align: left;
+}
+
+//===============Validation============
+.error-text {
+  color: #cb0000;
+  text-align: left;
+  line-height: 30px;
+  padding-left: 13px !important;
+  font-size: 12px !important;
+  font-weight: 800;
+}
+
+.border-error {
+  border-color: #cb0000;
+}
+
+//=============CHECKOUT FORM============
+.checkout-form {
+  // width: 50%;
+  padding: 40px;
+}
+
+.submit-button{
+  background: #077915;
+
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  // text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 100%;
+  border-radius: 12px;
+}
+
+.submit-button-container{
+  text-align: center;
+}

@@ -1,0 +1,244 @@
+
+
+[
+    {
+        "id": 1,
+        "name": "Brocolli - 1 Kg",
+        "price": 3.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/broccoli.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 2,
+        "name": "Cauliflower - 1 Kg",
+        "price": 2.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cauliflower.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 3,
+        "name": "Cucumber - 1 Kg",
+        "price": 1.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cucumber.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 4,
+        "name": "Beetroot - 1 Kg",
+        "price": 15.00,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beetroot.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 5,
+        "name": "Carrot - 1 Kg",
+        "price": 3.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/carrots.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 6,
+        "name": "Tomato - 1 Kg",
+        "price": 2.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/tomato.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 7,
+        "name": "Beans - 1 Kg",
+        "price": 4.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beans.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 8,
+        "name": "Brinjal - 1 Kg",
+        "price": 3.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/brinjal.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 9,
+        "name": "Capsicum",
+        "price": 5.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/capsicum.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 10,
+        "name": "Mushroom - 1 Kg",
+        "price": 6.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/button-mushroom.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 11,
+        "name": "Potato - 1 Kg",
+        "price": 2.22,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/potato.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 12,
+        "name": "Pumpkin - 1 Kg",
+        "price": 6.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pumpkin.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 13,
+        "name": "Corn - 1 Kg",
+        "price": 4.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/corn.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 14,
+        "name": "Onion - 1 Kg",
+        "price": 1.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/onion.jpg",
+        "category": "vegetables",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 15,
+        "name": "Apple - 1 Kg",
+        "price": 7.20,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/apple.jpg",
+        "category": "fruits",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 16,
+        "name": "Banana - 1 Kg",
+        "price": 4.50,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/banana.jpg",
+        "category": "fruits",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 17,
+        "name": "Grapes - 1 Kg",
+        "price": 6.00,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/grapes.jpg",
+        "category": "fruits", 
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 18,
+        "name": "Mango - 1 Kg",
+        "price": 7.50,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/mango.jpg",
+        "category": "fruits",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 19,
+        "name": "Musk Melon - 1 Kg",
+        "price": 3.60,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/musk-melon.jpg",
+        "category": "fruits", 
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 20,
+        "name": "Orange - 1 Kg",
+        "price": 7.50,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/orange.jpg",
+        "category": "fruits",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 21,
+        "name": "Pears - 1 Kg",
+        "price": 6.90,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pears.jpg",
+        "category": "fruits",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 22,
+        "name": "Pomegranate - 1 Kg",
+        "price": 9.50,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pomegranate.jpg",
+        "category": "fruits",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 23,
+        "name": "Raspberry - 1/4 Kg",
+        "price": 5.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/raspberry.jpg",
+        "category": "fruits",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 24,
+        "name": "Strawberry - 1/4 Kg",
+        "price": 8.99,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/strawberry.jpg",
+        "category": "fruits",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 25,
+        "name": "Water Melon - 1 Kg",
+        "price": 2.80,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+        "category": "fruits",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 26,
+        "name": "Almonds - 1/4 Kg",
+        "price": 20.00,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/almonds.jpg",
+        "category": "nuts",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 27,
+        "name": "Pista - 1/4 Kg",
+        "price": 1.90,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pista.jpg",
+        "category": "nuts",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 28,
+        "name": "Nuts Mixture - 1 Kg",
+        "price": 9.50,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/nuts-mixture.jpg",
+        "category": "nuts",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 29,
+        "name": "Cashews - 1 Kg",
+        "price": 6.50,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/cashews.jpg",
+        "category": "nuts",
+        "descritpion": "On average this product is 250g per unit"
+    },
+    {
+        "id": 30,
+        "name": "Walnuts - 1/4 Kg",
+        "price": 1.70,
+        "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+        "category": "nuts",
+        "descritpion": "On average this product is 250g per unit"
+    }
+]
